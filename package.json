@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22",
+    "postgres": "^3.3.4"
+  },
+  "scripts": {
+    
+    "dev": "nodemon server"
+  },
+  "name": "expressapi-postgres",
+  "version": "1.0.0",
+  "main": "server.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
